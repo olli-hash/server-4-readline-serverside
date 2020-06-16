@@ -1,0 +1,23 @@
+{
+  "name": "server-4-readline-serverside",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olli-hash/server-4-readline-serverside.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olli-hash/server-4-readline-serverside/issues"
+  },
+  "homepage": "https://github.com/olli-hash/server-4-readline-serverside#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4"
+  }
+}
